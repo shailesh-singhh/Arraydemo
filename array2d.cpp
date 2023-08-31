@@ -7,4 +7,5 @@ int main(){
     cin>>row;
     cout<<"Enter the number of columns :"<<endl;
     return 0;
+    
 }
